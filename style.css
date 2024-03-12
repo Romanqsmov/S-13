@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+.domain{
+  
+           height: 80vw;
+           
+           background-image: url(./WhatsApp\ Görsel\ 2024-03-09\ saat\ 20.57.55_da879c04.jpg);
+           background-repeat: no-repeat;
+
+           
+           
+}
+.hi{
+    color: greenyellow;
+
+    
+}
+body{
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+i{
+    font-size: 2vw;
+}
+body{
+    color: white;
+}
+h1{
+    
+}
+button{
+    background-color: white;
+    width: 90px;
+    margin: 0 auto;
+}
+span{
+    margin: 2vw;
+
+}
+h5{
+}
+
+
