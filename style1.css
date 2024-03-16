@@ -1,11 +1,32 @@
-input , label{
-    display: block;
-    color: white;
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
-body{
-    background-color: black;
+img::before(.sa){
+    
+    content: '';
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    background-size: cover;
+    top: 0;
+    left: 150px;
 }
-h2{
-    color:white;
+img{
+    width: 15vw;
+    height: 15vw;
+    
 }
-but
+.sa{
+    width: 20vw;
+    height: 20vw;
+}
+.hi{
+    height: 40vw;
+}
+img{
+   
+}
+
+
